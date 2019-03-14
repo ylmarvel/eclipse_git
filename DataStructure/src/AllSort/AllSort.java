@@ -1,7 +1,9 @@
 package AllSort;
 
 import java.util.Scanner;
-
+/**
+ *   对数字进行全排列 
+ * */
 public class AllSort {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
