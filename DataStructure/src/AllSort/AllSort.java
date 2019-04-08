@@ -49,7 +49,7 @@ public class AllSort {
 			System.out.println();
 		} else
 			for (int i = k; i <= m; i++) {
-				System.out.println(i);
+				//System.out.println(i);
 				//对当前位置进行交换
 				AllSort.swap(list, k, i);
 				

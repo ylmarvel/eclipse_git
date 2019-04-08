@@ -17,7 +17,7 @@ public class BinarySearch {
 		int mid = (begin+end)/2;
 		//设置数组的范围下标
 		int index = -1;
-		int n = 0;
+	
 		while(true) {
 			if(begin >= end) {
 				return -1;
